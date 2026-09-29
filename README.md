@@ -4,7 +4,6 @@ An AI-assisted, human-approved auto-healing pipeline for Huawei Cloud Stack (HCS
  
 **Repository:** TODO: REPO_URL not yet assigned.
 **Mirror:** TODO: MIRROR_URL not yet assigned, if one is required.
-**Maintainer:** Dumi, DevOps Engineer, RedMPS.
  
 ## Table of Contents
  
